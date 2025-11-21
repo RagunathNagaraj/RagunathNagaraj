@@ -6,10 +6,12 @@ AI-Supported Learning Systems:
 - Generative and explainable AI for learner feedback
 - AI-enabled support for project-based and innovation-driven learning
 - Responsible and transparent AI in educational contexts
+
 Learning Analytics and Human–AI Interaction:
 - Behavioural-trace analysis for modelling learner behaviour
 - Interaction patterns in AI-supported tasks
 - UX, trust, and autonomy in learning with AI tools
+
 Digital Innovation and Enterprise Education:
 - Technology-enhanced collaboration and creative problem-solving
 - AI tools that support interdisciplinary teamwork
