@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm a researcher working at the intersection of **artificial intelligence, learning systems, and human–AI interaction**. My work explores how emerging technologies can support **collaboration, problem-solving, creativity, and skill development** across digital learning environments. I build and study AI-enabled tools that combine **learning analytics, generative AI, and user-centred design** to better understand how people learn, interact, and innovate with intelligent systems.
 
 ## 🔬 Research Focus
@@ -17,7 +16,6 @@ My current work spans several interconnected areas:
 - AI tools that support interdisciplinary teamwork  
 - Skill development for innovation and entrepreneurial learning  
 
----
 ## 🤝 Open to Collaboration
 
 I collaborate on projects involving:
@@ -27,7 +25,5 @@ I collaborate on projects involving:
 - Digital learning innovation  
 - Enterprise or entrepreneurship education  
 - Responsible AI and explainability  
-
-
 
 ---
