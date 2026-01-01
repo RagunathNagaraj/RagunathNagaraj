@@ -1,28 +1,5 @@
-👋 Hi, I am an early stage researcher working at the intersection of artificial intelligence, learning analytics, and human AI interaction. My work examines how intelligent learning environments influence engagement, reasoning, and skill development. I build and study exploratory AI enabled learning tools, analysing behavioural data and interaction patterns to understand how people learn and adapt in digital educational systems.
+I am an early-stage researcher with an interdisciplinary background spanning digital technologies, innovation, and social inquiry. My interests centre on how digital platforms and systems shape human behaviour, collaboration, trust, and capability development in complex institutional contexts. I am particularly interested in how people interact with digital environments, how credibility and legitimacy are constructed, and why certain systems succeed or struggle to gain sustained adoption.
 
-🔬 Research Focus
+My work draws on exploratory research practices, including qualitative inquiry, behavioural analysis, and the use of lightweight prototypes as research artefacts. These artefacts are used to examine interaction patterns, decision-making, and adaptation processes rather than to develop finished products. Across projects, I am motivated by theory-driven questions about learning, innovation, and platform dynamics under uncertainty.
 
-AI-Supported Learning Systems:
-- Generative and explainable AI for learner feedback
-- AI-enabled support for project-based and innovation-driven learning
-- Responsible and transparent AI in educational contexts
-
-Learning Analytics and Human–AI Interaction:
-- Behavioural-trace analysis for modelling learner behaviour
-- Interaction patterns in AI-supported tasks
-- UX, trust, and autonomy in learning with AI tools
-
-Digital Innovation and Enterprise Education:
-- Technology-enhanced collaboration and creative problem-solving
-- AI tools that support interdisciplinary teamwork
-- Skill development for innovation and entrepreneurial learning
-
-🤝 Open to Collaboration
-
-I collaborate on projects involving:
-- AI in education
-- Learning analytics
-- Human–AI interaction
-- Digital learning innovation
-- Enterprise or entrepreneurship education
-- Responsible AI and explainability
+I am open to academic collaboration on research related to digital platforms, innovation processes, human–technology interaction, and the social dynamics of emerging systems.
