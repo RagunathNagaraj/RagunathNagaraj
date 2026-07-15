@@ -1,5 +1,5 @@
-I am an early-stage researcher with an interdisciplinary background spanning digital technologies, innovation, and social inquiry. My interests centre on how digital platforms and systems shape human behaviour, collaboration, trust, and capability development in complex institutional contexts. I am particularly interested in how people interact with digital environments, how credibility and legitimacy are constructed, and why certain systems succeed or struggle to gain sustained adoption.
+AI Business Consultant | SME
+I help SMEs identify where AI can remove friction from day-to-day operations and implement solutions that are practical, affordable and ready to use quickly. My approach starts with the business problem, not the technology. Before recommending any tool or building anything, I spend time understanding how a business actually runs, where time gets lost and where small fixes would have the biggest impact.
 
-My work draws on exploratory research practices, including qualitative inquiry, behavioural analysis, and the use of lightweight prototypes as research artefacts. These artefacts are used to examine interaction patterns, decision-making, and adaptation processes rather than to develop finished products. Across projects, I am motivated by theory-driven questions about learning, innovation, and platform dynamics under uncertainty.
-
-I am open to academic collaboration on research related to digital platforms, innovation processes, human–technology interaction, and the social dynamics of emerging systems.
+What I work on
+Workflow automation, AI tool evaluation, business process auditing and solution documentation. Every engagement is written up clearly so the business understands what was built, why and how to maintain it.
